@@ -36,7 +36,7 @@
             // picWalkingMan
             // 
             this.picWalkingMan.Image = global::WalkingMan.Properties.Resources.walk1;
-            this.picWalkingMan.Location = new System.Drawing.Point(48, 12);
+            this.picWalkingMan.Location = new System.Drawing.Point(100, 12);
             this.picWalkingMan.Name = "picWalkingMan";
             this.picWalkingMan.Size = new System.Drawing.Size(180, 180);
             this.picWalkingMan.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
